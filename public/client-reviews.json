@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name":"Anwar Khan",
+        "designation": "MD, North Bengal Agroo",
+        "review": "As a growing company, we found in Excel IT AI’ expertise in mobile application invaluable. In almost two years of cooperation, they’ve helped us define ... ",
+        "image": "anwar-khan.jpg",
+        "rating": "4.5"
+    },
+    {
+        "id": "2",
+        "name":"Faruk Hossain",
+        "designation": "CM, Fortress group",
+        "review": "As a growing company, we found in Excel IT AI’ expertise in mobile application invaluable. In almost two years of cooperation, they’ve helped us define ... ",
+        "image": "faruk-hossain.jpg",
+        "rating": "5"
+    },
+    {
+        "id": "3",
+        "name":"Ali Naqvi",
+        "designation": "CEO, Marcos Pizza",
+        "review": "Great company to work with. This is actually my second time with the company. Tremendous respect and admiration for the CEO. Very supportive environment that treats it's employees with respect and encourages everyone to have a balanced lifestyle. ",
+        "image": "ali-naqvi.jpg",
+        "rating": "4"
+    },
+    {
+        "id": "4",
+        "name":"Josh Tooker",
+        "designation": "CEO, Shopahs",
+        "review": "This company is on a mission as lives and breathes franchising. Very focused. It is a flat hierarchy so everyone is given meaningful responsibility.",
+        "image": "josh-tooker.jpg",
+        "rating": "5"
+    }
+]
